@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaholic.CategoryService.Api", "Workaholic.CategoryService.Api\Workaholic.CategoryService.Api.csproj", "{C62F9AEA-CBD8-4479-9503-9D8DB62E93BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaholic.CategoryService.Domain", "Workaholic.CategoryService.Domain\Workaholic.CategoryService.Domain.csproj", "{16917F21-7BA8-4787-8C99-3B107439D121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaholic.CategoryService.Repository", "Workaholic.CategoryService.Repository\Workaholic.CategoryService.Repository.csproj", "{369F7206-E254-49A0-9826-082DBC9113AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C62F9AEA-CBD8-4479-9503-9D8DB62E93BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62F9AEA-CBD8-4479-9503-9D8DB62E93BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62F9AEA-CBD8-4479-9503-9D8DB62E93BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62F9AEA-CBD8-4479-9503-9D8DB62E93BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16917F21-7BA8-4787-8C99-3B107439D121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16917F21-7BA8-4787-8C99-3B107439D121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16917F21-7BA8-4787-8C99-3B107439D121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16917F21-7BA8-4787-8C99-3B107439D121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369F7206-E254-49A0-9826-082DBC9113AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369F7206-E254-49A0-9826-082DBC9113AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369F7206-E254-49A0-9826-082DBC9113AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369F7206-E254-49A0-9826-082DBC9113AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

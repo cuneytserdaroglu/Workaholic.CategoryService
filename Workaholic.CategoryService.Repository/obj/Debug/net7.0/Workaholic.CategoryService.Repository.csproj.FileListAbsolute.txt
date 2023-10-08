@@ -1,0 +1,15 @@
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/bin/Debug/net7.0/Workaholic.CategoryService.Repository.deps.json
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/bin/Debug/net7.0/Workaholic.CategoryService.Repository.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/bin/Debug/net7.0/Workaholic.CategoryService.Repository.pdb
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/bin/Debug/net7.0/Workaholic.CategoryService.Domain.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/bin/Debug/net7.0/Workaholic.CategoryService.Domain.pdb
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.csproj.AssemblyReference.cache
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.AssemblyInfoInputs.cache
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.AssemblyInfo.cs
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.csproj.CoreCompileInputs.cache
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.csproj.CopyComplete
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/refint/Workaholic.CategoryService.Repository.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/Workaholic.CategoryService.Repository.pdb
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Repository/obj/Debug/net7.0/ref/Workaholic.CategoryService.Repository.dll

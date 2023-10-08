@@ -1,0 +1,12 @@
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/bin/Debug/net7.0/Workaholic.CategoryService.Domain.deps.json
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/bin/Debug/net7.0/Workaholic.CategoryService.Domain.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/bin/Debug/net7.0/Workaholic.CategoryService.Domain.pdb
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.csproj.AssemblyReference.cache
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.AssemblyInfoInputs.cache
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.AssemblyInfo.cs
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.csproj.CoreCompileInputs.cache
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/refint/Workaholic.CategoryService.Domain.dll
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/Workaholic.CategoryService.Domain.pdb
+/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/obj/Debug/net7.0/ref/Workaholic.CategoryService.Domain.dll

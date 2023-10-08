@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1gTL4z324MAWgWGLvBRXYoUuV6EYgZY8O7T3wupLAEvySMSJqF4Hp3P0HysIOpNDmynnKd34DdgvsAf0WTjyQ==",
+  "success": true,
+  "projectFilePath": "/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Domain/Workaholic.CategoryService.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/cuneytserdaroglu/.nuget/packages/mongodb.bson/2.21.0/mongodb.bson.2.21.0.nupkg.sha512",
+    "/Users/cuneytserdaroglu/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/cuneytserdaroglu/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
