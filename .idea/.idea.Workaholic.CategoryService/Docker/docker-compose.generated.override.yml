@@ -1,0 +1,23 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  workaholic.categoryservice.api:
+    build:
+      context: "/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService"
+      dockerfile: "Workaholic.CategoryService.Api/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net7.0/Workaholic.CategoryService.Api.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+      NUGET_PACKAGES: "/Users/cuneytserdaroglu/.nuget/packages"
+      NUGET_FALLBACK_PACKAGES: "/Users/cuneytserdaroglu/.nuget/packages"
+    image: "workaholic.categoryservice.api:dev"
+    ports: []
+    volumes:
+    - "/Users/cuneytserdaroglu/.nuget/packages:/root/.nuget/fallbackpackages"
+    - "/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Api:/app:rw"
+    - "/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService:/src:rw"
+    working_dir: "/app"
