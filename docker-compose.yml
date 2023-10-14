@@ -6,6 +6,8 @@
       dockerfile: Workaholic.CategoryService.Api/Dockerfile
     depends_on: 
       - mongo
+    ports:
+      - "1454:80"
   mongo:
     image: 'mongo:latest'
     container_name: mongo
