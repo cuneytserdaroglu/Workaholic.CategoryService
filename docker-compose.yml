@@ -1,6 +1,8 @@
 ﻿services:
   workaholic.categoryservice.api:
     image: workaholic.categoryservice.api
+    networks:
+    - myapp-network
     build:
       context: .
       dockerfile: Workaholic.CategoryService.Api/Dockerfile
@@ -8,9 +10,16 @@
       - mongo
     ports:
       - "1454:80"
+    environment:
+      - API_BASE_URL=http://host.docker.internal:1454/
   mongo:
     image: 'mongo:latest'
     container_name: mongo
     restart: always
+    networks:
+    - myapp-network
     ports:
       - '27017:27017'
+networks:
+  myapp-network:
+    external: true

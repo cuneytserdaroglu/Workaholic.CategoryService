@@ -1,4 +1,3 @@
-/Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Api/bin/Debug/net7.0/appsettings.Development.json
 /Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Api/bin/Debug/net7.0/appsettings.json
 /Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Api/bin/Debug/net7.0/Workaholic.CategoryService.Api
 /Users/cuneytserdaroglu/Desktop/TrainingProject/Workaholic.CategoryService/Workaholic.CategoryService.Api/bin/Debug/net7.0/Workaholic.CategoryService.Api.deps.json
