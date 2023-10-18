@@ -15,7 +15,6 @@
   mongo:
     image: 'mongo:latest'
     container_name: mongo
-    restart: always
     networks:
     - myapp-network
     ports:

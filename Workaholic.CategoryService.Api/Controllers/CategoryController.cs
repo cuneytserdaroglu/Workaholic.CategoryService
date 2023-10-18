@@ -30,6 +30,7 @@ namespace Workaholic.CategoryService.Api.Controllers
         [HttpPost]
         public async Task<string> Post(Category category)
         {
+            //Adding category
         var categoryEntity =   await _categoryRepository.InsertOneAsync(category);
         return categoryEntity.Messsage;
         }
